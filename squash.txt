@@ -1,0 +1,7 @@
+trying to make squash merge and get to know what is it. --> upto here 1st commit
+
+these are used when feature branch has messy of commits  ---2nd commit
+
+so squash is used to make all it as one commit ---3rd commit
+
+try to merge in any feature branch instead master directly to get better idea   ---4th commit
