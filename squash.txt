@@ -5,3 +5,7 @@ these are used when feature branch has messy of commits  ---2nd commit
 so squash is used to make all it as one commit ---3rd commit
 
 try to merge in any feature branch instead master directly to get better idea   ---4th commit
+
+now we have 4 commits to combine into single, we use this
+----git rebase -i HEAD~3---
+then it combine last 2 commits into a single as first commit
